@@ -1,1 +1,1 @@
-Demo : https://compassionate-williams-821eda.netlify.app/
+Demo : https://covid19-tracker-apps.netlify.app/
